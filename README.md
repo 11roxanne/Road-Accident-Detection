@@ -9,7 +9,7 @@ The Accident Detection System is a sophisticated computer vision project that ut
 Real-time Accident Detection: Leverages a pre-trained CNN to analyze video frames and detect accidents as they happen.
 Notification System: Sends SMS notifications via the Twilio API upon detecting an accident, ensuring immediate alerting.
 
-#Technologies Used
+# Technologies Used
 
 Python
 TensorFlow, Keras: For building and deploying the pre-trained CNN model.
